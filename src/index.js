@@ -11,3 +11,6 @@ Steps
 4. Move players according to kick.
 5. Register score or ball out of play and reset players
 */
+import './index.css';
+
+console.log('Hello there you');
